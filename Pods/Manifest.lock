@@ -1,0 +1,16 @@
+PODS:
+  - LmMobSDK (1.0.1)
+
+DEPENDENCIES:
+  - LmMobSDK (~> 1.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LmMobSDK
+
+SPEC CHECKSUMS:
+  LmMobSDK: aea848b09ac31c8720865e6ca888509f434d2b50
+
+PODFILE CHECKSUM: daed5c20f9794e45bf951e193053915e8fc3d968
+
+COCOAPODS: 1.5.3
